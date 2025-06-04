@@ -1,0 +1,58 @@
+1. What categories of products does Northwind Traders sell? 
+Beverages - Soft drinks, coffees, teas, beers, and ales
+Condiments - Sweet and savory sauces, relishes, spreads, and seasonings
+Confections - Desserts, candies, and sweet breads
+Dairy Products - Cheeses
+Grains/Cereals - Breads, crackers, pasta, and cereal
+Meat/Poultry - Prepared meats
+Produce - Dried fruit and bean curd
+Seafood - Seaweed and fish
+
+2. What is the name of a product that sounds interesting to you? 
+Uncle Bob's Organic Dried Pears
+
+3. What are some of the countries in which we have customers? 
+Argentina, Austria, Belgium, Brazil, Canada, Denmark, Finland, France, Germany, Ireland, Italy, Mexico, Norway, Poland, Portugal, Spain, Sweden, Switzerland, 
+UK, USA, Venezuela.
+
+4. What date was our first order placed? How did you determine that? 
+07-04-1996
+
+5. What date was our last order placed? 
+05-06-1996
+
+6. How many customers do we currently have? 
+93
+
+7. Do we have any suppliers in South America? Europe? Africa? 
+Yes, Yes, and No.
+
+8. What is our most expensive product?  
+Cte de Blaye - 263.5000
+
+9. What is our least expensive product? 
+Geitost - 2.5000
+
+10. We have a customer named "The Big Cheese" if I wanted to get details 
+about their last order from us how would you find that information? 
+
+a. What tables would you use? 
+Customers and Orders 
+
+b. How would you link the data in the tables you are using 
+CustomerID  
+
+c. What information might I want to know about their order? 
+OrderID, Address, and RequiredDate
+
+i. Order Date? 
+04-01-1998 
+
+ii. Sales Total? 
+69.6$ 
+
+iii. Product Name? 
+Mozzarella di Giovanni
+
+iv. Is there other information that you might find interesting? 
+Quantity, UnitsInStock
