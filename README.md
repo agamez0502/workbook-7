@@ -1,4 +1,4 @@
-# 🗃️ SQL Language - Student Workbook 📘
+# 🗃️ Workbook 7: SQL Language 📘
 
 Welcome to **Workbook -7** for learning SQL!  
 This workbook is your bestie for mastering the **SQL Language** and understanding **Relational Databases** through clear lessons, examples, and hands-on exercises.  
