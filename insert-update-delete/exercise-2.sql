@@ -87,11 +87,11 @@ WHERE
 	SupplierID = 30;
 -- 8. List all products.  
 SELECT 
-	*
+	ProductName AS Products
 FROM 
 	products;
 -- 9. List all suppliers. 
 SELECT 
-	*
+	CompanyName AS Suppliers
 FROM 
 	suppliers;
