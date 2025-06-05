@@ -59,3 +59,7 @@ Let’s get querying! 🧠💻
 
 ### Happy Querying! ✨  
 🧠📊🧑‍💻  
+
+---
+
+### In a world full of nulls, be the DISTINCT result. 💁‍♀️🧠
