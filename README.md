@@ -17,7 +17,7 @@ Let’s get querying! 🧠💻
 - 🖥️ Installing MySQL
 - 🧭 MySQL Workbench & Navigator
 - 🔍 Exploring & Viewing Records
-- 🧪 Executing Queries + Exercises
+- 🧪 Executing Queries
 
 ---
 
@@ -25,21 +25,20 @@ Let’s get querying! 🧠💻
 - 📄 SELECT Statements
 - 🧮 ORDER BY, WHERE, BETWEEN, LIKE
 - 🧑‍💻 Handling NULL & DISTINCT
-- 💬 Comments + 🧠 Practice Exercises
+- 💬 Comments
 
 ---
 
 ### 📊 Module 3: Additional Querying Features
 - 🧾 Aggregate Functions (COUNT, SUM, AVG, etc.)
 - 📦 GROUP BY & HAVING Clauses
-- 🧪 Nested Queries + 💪 Exercises
+- 🧪 Nested Queries
 
 ---
 
 ### 🔗 Module 4: Querying Multiple Tables (JOINS)
 - 🧷 INNER & OUTER JOINS
 - 🔎 Viewing Joined Data
-- 🧠 Practice Exercises
 
 ---
 
@@ -47,15 +46,6 @@ Let’s get querying! 🧠💻
 - ✍️ INSERT, UPDATE, DELETE
 - 🧱 CREATE TABLE & Schema Design
 - 🤖 Using AI Tools for SQL Generation
-
----
-
-## ✅ Getting Started
-To follow along:
-1. 💾 Install MySQL Server and Workbench.
-2. 📖 Work through each module in order.
-3. 🧠 Try all exercises & challenges to build your skills.
-4. 🚀 Apply what you learn on real projects!
 
 ---
 
