@@ -49,11 +49,18 @@ Let’s get querying! 🧠💻
 
 ---
 
-## 💡 Why Learn SQL?
-- 🔎 Query data efficiently
-- 🗂️ Work with databases confidently
-- 🤝 Collaborate with data professionals
-- 📈 Boost your tech career!
+## 💡 Core Concepts
+
+- 🗃️ **Relational Databases** — Organizes data into tables with defined relationships to minimize redundancy and maintain integrity.  
+- 💬 **Structured Query Language (SQL)** — Used to define, manipulate, query, and control access to relational data.  
+- 📄 **SELECT Statements** — Retrieves data from one or more tables based on specified conditions.  
+- 🧮 **Aggregate Functions** — Performs calculations on data sets, including `COUNT()`, `SUM()`, `AVG()`, `MIN()`, and `MAX()`.  
+- 📊 **GROUP BY and HAVING** — Groups rows by a specified column and filters aggregated results.  
+- 🔗 **JOINS** — Combines rows from multiple tables using relationships, including INNER, LEFT, RIGHT, and FULL OUTER JOINs.  
+- ✍️ **INSERT, UPDATE, DELETE** — Modifies data within tables by adding, editing, or removing records.  
+- 🧱 **CREATE TABLE** — Defines a new table's structure and constraints within the database.  
+- 🔎 **WHERE, LIKE, BETWEEN, NULL** — Filters results based on exact, pattern-based, range, or null criteria.  
+- 🧠 **Normalization** — Organizes data to reduce redundancy and improve data integrity across multiple related tables.
 
 ---
 
